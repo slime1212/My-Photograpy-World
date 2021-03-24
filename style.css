@@ -1,0 +1,10 @@
+body {
+    background-color: #02B2DE;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#italicstuff {
+    font-style: italic;
+    color: #B3DBE8;
+}
